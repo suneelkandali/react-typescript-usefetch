@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Used below command to setup project initially
+
+npx create-react-app <<projectname>> --template typescript
+  
+To add TypeScript to existing create-react-app, run below command
+  
+npm install --save typescript @types/node @types/react @types/react-dom @types/jest
+  
+npm install 
+
 ## Available Scripts
 
 In the project directory, you can run:
